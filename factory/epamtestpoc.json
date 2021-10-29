@@ -1,0 +1,9 @@
+{
+	"name": "epamtestpoc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b12d031f-83d1-42e4-b14f-17542106108f",
+		"tenantId": "a2bbdc7c-0617-45c9-8eec-578105827c05"
+	}
+}
